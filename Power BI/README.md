@@ -109,6 +109,10 @@ This section provides a detailed guide on setting up and using the Power BI dash
 
 # Snapshot of Dashboard (Power BI Service)
 
+![E Commerce Project 1st page](https://github.com/pradeeshculer/E-Commerce-Analysis/assets/115096109/30b374ef-2a55-428d-8b48-380688c2896c)
+
+
+
 
 ### Conclusion
 
